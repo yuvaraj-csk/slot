@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date
+## Date:13/09/2023
 
 
 ## AIM
@@ -140,8 +140,6 @@ Execute the program using runserver command.
 ## OUTPUT
 ![Alt text](sample3/newapp/static/output3.png)
 
-
-## HTML VALIDATOR
 
 
 ## RESULT
